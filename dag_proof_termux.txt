@@ -1,0 +1,12 @@
+Jetstreamin DAG Capsule Proof of Execution
+
+Capsule: SwapBeam  
+Runtime: Termux Native Agent  
+Author: Michael J. Mahon  
+SHA3-512 Capsule Seal:
+c9d04914307085bc98a43adcf53b9e9bf3f1174187365be02fb4ef71e1b8a57bad9d8c7d94c2addf4f3aec2477f3ea72e2ccfad8ff22ebead93354379fb7b85b  
+Timestamp: Mon Jul 21 23:41:54 UTC 2025
+
+NETA: Confirmed  
+WANITA: Active Runtime  
+DAG Path: ~/jetstreamin/agents/swapbeam/termux-seal.sha3
